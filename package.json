@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/repellendus-nihil-recusandae-debitis",
-  "version": "2.12.80",
+  "version": "2.12.81",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -658,5 +658,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/repellendus-nihil-recusandae-debitis/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
